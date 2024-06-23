@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <WatchScripts>
+        <WatchScript>
+            <Script>filesPDF</Script>
+        </WatchScript>
+        <WatchScript>
+            <Script>textPDF</Script>
+        </WatchScript>
+        <WatchScript>
+            <Script>nameOrg[0]</Script>
+        </WatchScript>
+        <WatchScript>
+            <Script>nameORGStr</Script>
+        </WatchScript>
+    </WatchScripts>
+    <Ignored />
+    <Breakpoints>
+        <KeyValueItem>
+            <Key>C:\Users\User\Documents\Primo\Desktop_PDF_Project\Main.ltw</Key>
+            <Value>9780f0a8-c2fe-4c9d-9390-26eddbff2775</Value>
+        </KeyValueItem>
+    </Breakpoints>
+    <BreakpointLines />
+    <Git />
+    <LastOpenedItems>
+        <string>C:\Users\User\Documents\Primo\Desktop_PDF_Project\Main.ltw</string>
+    </LastOpenedItems>
+</LTProjectResources>

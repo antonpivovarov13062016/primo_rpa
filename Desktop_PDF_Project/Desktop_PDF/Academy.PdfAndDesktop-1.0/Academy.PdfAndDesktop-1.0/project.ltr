@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <WatchScripts />
+    <Ignored />
+    <Breakpoints>
+        <KeyValueItem>
+            <Key>C:\Users\oxy2c\Documents\Primo\Primo.Academy.DesktopPdf\PDF\ExtractData.ltw</Key>
+            <Value>6b4bae68-7ca4-4b35-a8b6-a5f1c6621ba9</Value>
+        </KeyValueItem>
+    </Breakpoints>
+    <Git />
+    <LastOpenedItems>
+        <string>C:\Users\oxy2c\Documents\Primo\Primo.Academy.DesktopPdf\Main.ltw</string>
+        <string>C:\Users\oxy2c\Documents\Primo\Primo.Academy.DesktopPdf\Process\AddRecord.ltw</string>
+        <string>C:\Users\oxy2c\Documents\Primo\Primo.Academy.DesktopPdf\Process\OpenApp.ltw</string>
+        <string>C:\Users\oxy2c\Documents\Primo\Primo.Academy.DesktopPdf\Process\ExtractData.ltw</string>
+        <string>C:\Users\oxy2c\Documents\Primo\Primo.Academy.DesktopPdf\Process\CloseApp.ltw</string>
+    </LastOpenedItems>
+</LTProjectResources>

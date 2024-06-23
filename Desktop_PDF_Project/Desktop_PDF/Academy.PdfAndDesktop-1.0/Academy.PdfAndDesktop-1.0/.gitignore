@@ -1,0 +1,5 @@
+*.bak
+#.Resources/
+.Screenshots/
+[Tt]est*.ltw
+~$*
