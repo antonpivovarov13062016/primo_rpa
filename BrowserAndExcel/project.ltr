@@ -26,18 +26,37 @@
         <WatchScript>
             <Script>table1</Script>
         </WatchScript>
+        <WatchScript>
+            <Script>dateKurs.Date.Year.ToString()</Script>
+        </WatchScript>
     </WatchScripts>
     <Ignored>
         <KeyValueItem>
             <Key>C:\Users\User\Documents\Primo\BrowserAndExcel\Main.ltw</Key>
-            <Value>2d496ccc-d0e1-4fca-b7d5-a8349e0f8c70</Value>
+            <Value>b316c828-3fc0-4316-a009-165d65537209</Value>
         </KeyValueItem>
         <KeyValueItem>
             <Key>C:\Users\User\Documents\Primo\BrowserAndExcel\Main.ltw</Key>
-            <Value>76227acb-6ca7-4298-a1dd-df1cde8e073b</Value>
+            <Value>6d2589e4-e3b7-4fad-89d5-f140dcbe18a6</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\User\Documents\Primo\BrowserAndExcel\Main.ltw</Key>
+            <Value>b32ce25c-f385-4278-98cc-ee9e500d09b9</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\User\Documents\Primo\BrowserAndExcel\Main.ltw</Key>
+            <Value>fb575bfa-653f-4320-82c3-40b99c6fe829</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\User\Documents\Primo\BrowserAndExcel\Main.ltw</Key>
+            <Value>6e2748bd-07fa-4257-9b59-86ecd2da1764</Value>
         </KeyValueItem>
     </Ignored>
     <Breakpoints>
+        <KeyValueItem>
+            <Key>C:\Users\User\Documents\Primo\BrowserAndExcel\Main.ltw</Key>
+            <Value>25dcc0c9-83d8-4c4c-8109-cc92a7e60685</Value>
+        </KeyValueItem>
         <KeyValueItem>
             <Key>C:\Users\User\Documents\Primo\BrowserAndExcel\Main.ltw</Key>
             <Value>97a9f647-49e2-40a6-81e5-a2bc49ccfe79</Value>

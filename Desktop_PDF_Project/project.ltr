@@ -13,14 +13,17 @@
         <WatchScript>
             <Script>nameORGStr</Script>
         </WatchScript>
+        <WatchScript>
+            <Script>EGRNPDF</Script>
+        </WatchScript>
     </WatchScripts>
-    <Ignored />
-    <Breakpoints>
+    <Ignored>
         <KeyValueItem>
             <Key>C:\Users\User\Documents\Primo\Desktop_PDF_Project\Main.ltw</Key>
-            <Value>9780f0a8-c2fe-4c9d-9390-26eddbff2775</Value>
+            <Value>cc48d5a4-96ca-4d00-a603-386f40f252aa</Value>
         </KeyValueItem>
-    </Breakpoints>
+    </Ignored>
+    <Breakpoints />
     <BreakpointLines />
     <Git />
     <LastOpenedItems>
